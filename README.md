@@ -1,5 +1,8 @@
 # Storyblok Core Space Blueprint: Eleventy
 
+> [!WARNING]
+> This repository is no longer maintained.
+
 Integrate [Eleventy](https://11ty.dev/) with [Storyblok](http://www.storyblok.com) as a headless CMS.
 
 This blueprint is ideal for kickstarting new Storyblok and React projects. What's inside:
